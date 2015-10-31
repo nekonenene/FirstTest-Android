@@ -1,4 +1,8 @@
 <resources>
-	<string name="app_name">FirstTest</string>
+	<string name="app_name">はじめてのAndroid</string>
 	<string name="action_settings">Settings</string>
+
+	<string name="test">TestString!</string>
+	<string name="nyoki">にょきにょき</string>
+	<string name="hey">へいへーい</string>
 </resources>

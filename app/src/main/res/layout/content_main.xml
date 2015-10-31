@@ -14,7 +14,8 @@
 	tools:context=".MainActivity">
 	
 	<TextView
-		android:text="Hello World!"
+		android:text="@string/test"
 		android:layout_width="wrap_content"
-		android:layout_height="wrap_content"/>
+		android:layout_height="wrap_content"
+		android:id="@+id/test_message"/>
 </RelativeLayout>
